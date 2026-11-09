@@ -26,3 +26,4 @@ En este proyecto se analizan **456.829 registros horarios de sensores peatonales
 * `melbourne_retail_clustering.ipynb`: Cuaderno Jupyter con todo el código documentado, gráficas y tablas ejecutadas.
 * `Informe_Tecnico_Melbourne.pdf`: Memoria técnica completa con la justificación matemática y de negocio.
 * `mapa_top3_melbourne.html`: Mapa interactivo con los radios de influencia de 200 m y locales recomendados.
+* `mapa_top3_melbourne.png` : Mapa interactivo con los radios de influencia de 200 m y locales recomendados en formato imagen.
